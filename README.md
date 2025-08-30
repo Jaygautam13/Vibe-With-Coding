@@ -51,6 +51,7 @@ This project does not use physical IoT devices or sensors but instead relies on 
 - AI-driven prediction for urban growth & planning.  
 
 ---
+working link : https://lovable.dev/projects/854120e3-d75a-42ca-b7c8-f0ea1700381a
 
 ## 🏗️ System Architecture
 ```mermaid
